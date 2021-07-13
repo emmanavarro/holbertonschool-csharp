@@ -1,5 +1,4 @@
-﻿// Program that prints the alphabet, in lowercase, not followed by a new line.
-using System;
+﻿using System;
 
 namespace _2_print_alphabet
 {
