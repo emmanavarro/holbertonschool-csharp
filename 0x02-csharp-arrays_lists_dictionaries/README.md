@@ -27,6 +27,7 @@
 | [4. Print a list of integers](4-print_list) | Write a method that creates and prints a list of integers of a given size. |
 | [5. Find the max ](5-max_integer) | Write a method that finds the biggest integer of a list. |
 | [6. Only by 2](6-divisible_by_2) | Write a method that finds all multiples of 2 in a list. |
+| [7. Delete at ](7-delete_at) | Write a method that deletes the item at a specific position in a list. |
 
 ### Follow me
 
