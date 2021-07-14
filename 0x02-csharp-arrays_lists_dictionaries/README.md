@@ -21,6 +21,7 @@
 | Task | Description |
 | ------ | ------ |
 | [0. Print an array of integers](0-print_array) | Write a method that creates and prints an array of integers of a given size. |
+| [1. Access an element in an array](1-element_at) | Write a method that retrieves an element from an array. |
 
 
 ### Follow me
