@@ -25,7 +25,7 @@
 | [2. Replace element](2-replace_element) | Write a method that replaces an element of an array at a given index. |
 | [3. Print an array of integers... in reverse!](3-print_array_reverse) | Write a method that prints all integers of an array, in reverse order. |
 | [4. Print a list of integers](4-print_list) | Write a method that creates and prints a list of integers of a given size. |
-| [Find the max ](5-max_integer) | Write a method that finds the biggest integer of a list. |
+| [5. Find the max ](5-max_integer) | Write a method that finds the biggest integer of a list. |
 
 ### Follow me
 
