@@ -23,6 +23,7 @@
 | [0. Print an array of integers](0-print_array) | Write a method that creates and prints an array of integers of a given size. |
 | [1. Access an element in an array](1-element_at) | Write a method that retrieves an element from an array. |
 | [2. Replace element](2-replace_element) | Write a method that replaces an element of an array at a given index. |
+| [3. Print an array of integers... in reverse!](3-print_array_reverse) | Write a method that prints all integers of an array, in reverse order. |
 
 ### Follow me
 
