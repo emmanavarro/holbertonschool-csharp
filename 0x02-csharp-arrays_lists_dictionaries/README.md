@@ -31,6 +31,7 @@
 | [8. Number of keys](8-number_keys) | Write a method that returns the number of keys in a dictionary. |
 | [9. Update dictionary](9-add_key_value) | Write a method that adds a key and value to a dictionary. |
 | [10. Delete from dictionary](10-delete_key_value) | Write a method that deletes a key in a dictionary. |
+| [11. Multiply by 2](11-multiply_by_2) | Write a method that returns a new dictionary with all values multiplied by 2. |
 
 ### Follow me
 
