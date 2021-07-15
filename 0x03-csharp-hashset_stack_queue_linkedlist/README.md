@@ -23,6 +23,7 @@
 | [0. Unique addition](0-unique_add) | Write a method that adds all unique integers in a list. |
 | [1. Present in both](1-common_elements) | Write a method that returns a sorted list of common elements in two lists. |
 | [2. Only differents ](2-different_elements) | Write a method that returns a sorted list of all elements present in one or the other list but not both. |
+| [3. Full stack](3-stack_push_pop) | Given a Stack, write a program that does the following: -Class: `MyStack`. -Prototype: `public static Stack Info(Stack aStack, string newItem, string search)`. -Print the number of items in `aStack`. -Format: `Number of items: <number>` -Print the item at the top of aStack without removing it. -Format: `Top item: <number>`. -If aStack is empty, print `Stack is empty` |
 
 
 ### Follow me
