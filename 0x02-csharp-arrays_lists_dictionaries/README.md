@@ -28,6 +28,7 @@
 | [5. Find the max ](5-max_integer) | Write a method that finds the biggest integer of a list. |
 | [6. Only by 2](6-divisible_by_2) | Write a method that finds all multiples of 2 in a list. |
 | [7. Delete at ](7-delete_at) | Write a method that deletes the item at a specific position in a list. |
+| [8. Number of keys ](8-number_keys) | Write a method that returns the number of keys in a dictionary. |
 
 ### Follow me
 
