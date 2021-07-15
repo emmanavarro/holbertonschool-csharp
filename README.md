@@ -8,6 +8,7 @@
 | 1 | [0x00-csharp-hello_world](0x00-csharp-hello_world) | Scripts and programs to create C# projects and work with variables. |
 | 2 | [0x01-csharp-ifelse_loops_methods](0x01-csharp-ifelse_loops_methods) | Programs to learn how conditional and loop statements work. |
 | 3 | [0x02-csharp-arrays_lists_dictionaries](0x02-csharp-arrays_lists_dictionaries) | Programs to work with arrays, lists, and collections. |
+| 4 | [0x03-csharp-hashset_stack_queue_linkedlist](0x03-csharp-hashset_stack_queue_linkedlist) | Programs to work with collections |
 
 #### Follow me
 
