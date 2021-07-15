@@ -30,6 +30,7 @@
 | [7. Delete at](7-delete_at) | Write a method that deletes the item at a specific position in a list. |
 | [8. Number of keys](8-number_keys) | Write a method that returns the number of keys in a dictionary. |
 | [9. Update dictionary](9-add_key_value) | Write a method that adds a key and value to a dictionary. |
+| [10. Delete from dictionary](10-delete_key_value) | Write a method that deletes a key in a dictionary. |
 
 ### Follow me
 
