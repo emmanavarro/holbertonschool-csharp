@@ -34,6 +34,7 @@
 | [11. Multiply by 2](11-multiply_by_2) | Write a method that returns a new dictionary with all values multiplied by 2. |
 | [12. Print sorted dictionary](12-print_sorted_dictionary) | Write a method that prints a dictionary by ordered keys. |
 | [13. Best score](13-best_score) | Write a method that returns the key with the biggest integer value in a given dictionary. |
+| [14. Rectangular array](14-rectangular_array) | Write a program that creates and prints a 5 by 5 two-dimensional array and initialize index [2,2] to 1 and all other indices to 0. |
 
 ### Follow me
 
