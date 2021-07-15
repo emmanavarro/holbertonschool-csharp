@@ -22,6 +22,7 @@
 | ------ | ------ |
 | [0. Unique addition](0-unique_add) | Write a method that adds all unique integers in a list. |
 | [1. Present in both](1-common_elements) | Write a method that returns a sorted list of common elements in two lists. |
+| [2. Only differents ](2-different_elements) | Write a method that returns a sorted list of all elements present in one or the other list but not both. |
 
 
 ### Follow me
