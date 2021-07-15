@@ -21,6 +21,7 @@
 | Task | Description |
 | ------ | ------ |
 | [0. Unique addition](0-unique_add) | Write a method that adds all unique integers in a list. |
+| [1. Present in both](1-common_elements) | Write a method that returns a sorted list of common elements in two lists. |
 
 
 ### Follow me
