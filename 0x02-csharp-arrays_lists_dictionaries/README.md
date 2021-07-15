@@ -37,6 +37,12 @@
 | [14. Rectangular array](14-rectangular_array) | Write a program that creates and prints a 5 by 5 two-dimensional array and initialize index [2,2] to 1 and all other indices to 0. |
 | [15. Matrix squared](15-square_matrix) | Write a method that computes the square value of all integers of a matrix. |
 
+``Advanced``
+
+| Task | Description |
+| ------ | ------ |
+| [16. Jagged array](100-jagged_array) | Write a program that creates and prints a jagged array containing 3 arrays. |
+
 ### Follow me
 
 | Author | GitHub | Twitter | Linkedin |
