@@ -25,10 +25,11 @@
 | [2. Replace element](2-replace_element) | Write a method that replaces an element of an array at a given index. |
 | [3. Print an array of integers... in reverse!](3-print_array_reverse) | Write a method that prints all integers of an array, in reverse order. |
 | [4. Print a list of integers](4-print_list) | Write a method that creates and prints a list of integers of a given size. |
-| [5. Find the max ](5-max_integer) | Write a method that finds the biggest integer of a list. |
+| [5. Find the max](5-max_integer) | Write a method that finds the biggest integer of a list. |
 | [6. Only by 2](6-divisible_by_2) | Write a method that finds all multiples of 2 in a list. |
-| [7. Delete at ](7-delete_at) | Write a method that deletes the item at a specific position in a list. |
-| [8. Number of keys ](8-number_keys) | Write a method that returns the number of keys in a dictionary. |
+| [7. Delete at](7-delete_at) | Write a method that deletes the item at a specific position in a list. |
+| [8. Number of keys](8-number_keys) | Write a method that returns the number of keys in a dictionary. |
+| [9. Update dictionary](9-add_key_value) | Write a method that adds a key and value to a dictionary. |
 
 ### Follow me
 
