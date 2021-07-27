@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Enemies
+﻿namespace Enemies
 {
     /// <summary>This class create a Zombie</summary>
     public class Zombie
