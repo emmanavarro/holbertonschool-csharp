@@ -6,7 +6,10 @@ using System.Reflection;
 public abstract class Base {
 
   /// <summary> Name of the object </summary>
-  public string name;
+  public string name {
+    get;
+    set;
+  }
 
   /// <summary> override ToString </summary>
   /// <returns> the object name and its type </returns>
@@ -20,17 +23,17 @@ interface IInteractive {
 }
 
 interface IBreakable {
-  int durability{ 
+  int durability{
     get;
-    set; 
+    set;
   }
   void Break ();
 }
 
 interface ICollectable {
-  bool isCollected { 
+  bool isCollected {
     get;
-    set; 
+    set;
   }
   void Collect ();
 }
