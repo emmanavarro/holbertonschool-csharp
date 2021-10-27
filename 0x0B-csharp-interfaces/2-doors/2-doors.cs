@@ -40,7 +40,10 @@ interface ICollectable {
 
 /// <summary> Class that inherits </summary>
 class Door : Base, IInteractive {
-  public Door (string name = "Door") => this.name = name;
+  public Door (string name = "Door")
+  {
+    this.name = name;
+  }
 
   /// <summary>Implement the interface</summary>
   public void Interact () {
